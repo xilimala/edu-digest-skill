@@ -119,7 +119,7 @@
 
 ### Step 5: 发送邮件
 使用 `email_request` 工具发送邮件：
-- 收件人：shisijin339@gmail.com
+- 收件人：example@gmail.com
 - 标题：【每日教育资讯】YYYY年MM月DD日
 - 内容：双语摘要
 - 附件：Markdown文档 + 卡片图片
